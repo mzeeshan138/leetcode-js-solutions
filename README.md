@@ -6,7 +6,7 @@ Welcome to my **LeetCode JavaScript Easy Solutions** repository! 🎉 This repos
 
 🔗 **Portfolio:** [ZeePortfolio](https://mzeeshan138.github.io/ZeePortfolio/)  
 🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)  
-📧 **Email:** muhammadzeeshan588685@gmail.com  
+📧 **Email:** muhammadzeeshan786138@gmail.com  
 🔗 **LinkedIn:** [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
 🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan106/)
 
@@ -16,52 +16,13 @@ Welcome to my **LeetCode JavaScript Easy Solutions** repository! 🎉 This repos
 
 This repository currently includes solutions for LeetCode's **easy-level** problems. Here's the breakdown:
 
-- **9. Palindrome Number**
-
----
-
-## 🎯 Problem: Palindrome Number (LeetCode 9)
-
-### Problem Statement:
-
-Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwise.
-
-Example 1:  
-Input: `x = 121`  
-Output: `true`  
-Explanation: `121` reads the same backward as forward.
-
-Example 2:  
-Input: `x = -121`  
-Output: `false`  
-Explanation: `-121` is not a palindrome. Reading it from right to left gives `121-`.
-
-Example 3:  
-Input: `x = 10`  
-Output: `false`  
-Explanation: `10` is not a palindrome since the reverse is `01`.
-
----
-
-### 🔍 **Solution Analysis:**
-
-- **Time Complexity:**  
-  ⏱️ O(log n)  
-  We reverse half of the digits of the number, so the time complexity depends on the number of digits in `x`.
-
-- **Space Complexity:**  
-  💾 O(1)  
-  We only use a constant amount of space to store the `reverted` number.
-
-- **Test Cases:**  
-  ✅ Passed all **11,511** hidden and sample test cases on LeetCode!
-
----
-
-### 🏆 **Performance Results:**
-
-- ⚡️ **Runtime:** 3 ms (Beats **98.69%** of JavaScript solutions)
-- 🧮 **Memory Usage:** 63.98 MB (Beats **79.21%** of JavaScript solutions)
+| #        | Problems                                                    | Link                                                               |
+| -------- | ----------------------------------------------------------- | ------------------------------------------------------------------ |
+| 01 (a)   | Two Sum Not Optimized                                       | [View Solution](1-two-sum.js)                                      |
+| 01 (b)   | Two Sum Optimized Solution                                  | [View Solution](1-two-sum-optimized.js)                            |
+| 09       | Palindrome Number                                           | [View Solution](9-palindrome-number.js)                            |
+| 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
+| 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
 
 ---
 
@@ -95,11 +56,12 @@ Let's improve and grow together. 🎉
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-📧 **Email:** muhammadzeeshan588685@gmail.com  
+🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)  
+📧 **Email:** muhammadzeeshan786138@gmail.com  
 🔗 **LinkedIn:** [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
-🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)
+🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan106/)
 
 ---
 
