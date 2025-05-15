@@ -16,13 +16,13 @@ Welcome to my **LeetCode JavaScript Easy Solutions** repository! 🎉 This repos
 
 This repository currently includes solutions for LeetCode's **easy-level** problems. Here's the breakdown:
 
-| #        | Problems                                                    | Link                                                               |
-| -------- | ----------------------------------------------------------- | ------------------------------------------------------------------ |
-| 01 (a)   | Two Sum Not Optimized                                       | [View Solution](1-two-sum.js)                                      |
-| 01 (b)   | Two Sum Optimized Solution                                  | [View Solution](1-two-sum-optimized.js)                            |
-| 09       | Palindrome Number                                           | [View Solution](9-palindrome-number.js)                            |
-| 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
-| 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
+| #        | Problems                                                    | Level | Link                                                               |
+| -------- | ----------------------------------------------------------- | ----- | ------------------------------------------------------------------ |
+| 01 (a)   | Two Sum Not Optimized                                       | Easy  | [View Solution](1-two-sum.js)                                      |
+| 01 (b)   | Two Sum Optimized Solution                                  | Easy  | [View Solution](1-two-sum-optimized.js)                            |
+| 09       | Palindrome Number                                           | Easy  | [View Solution](9-palindrome-number.js)                            |
+| 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | Easy  | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
+| 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | Easy  | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
 
 ---
 
