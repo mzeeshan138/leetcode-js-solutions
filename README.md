@@ -16,20 +16,20 @@ Welcome to my **LeetCode JavaScript Easy Solutions** repository! 🎉 This repos
 
 This repository currently includes solutions for LeetCode's **easy-level** problems. Here's the breakdown:
 
-| #        | Problems                                                    | Level | Link                                                               |
-| -------- | ----------------------------------------------------------- | ----- | ------------------------------------------------------------------ |
-| 01 (a)   | Two Sum Not Optimized                                       | Easy  | [View Solution](1-two-sum.js)                                      |
-| 01 (b)   | Two Sum Optimized Solution                                  | Easy  | [View Solution](1-two-sum-optimized.js)                            |
-| 09       | Palindrome Number                                           | Easy  | [View Solution](9-palindrome-number.js)                            |
-| 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | Easy  | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
-| 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | Easy  | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
+| #        | Problems                                                    | Level  | Link                                                               |
+| -------- | ----------------------------------------------------------- | ------ | ------------------------------------------------------------------ |
+| 01 (a)   | Two Sum Not Optimized                                       | Easy   | [View Solution](1-two-sum.js)                                      |
+| 01 (b)   | Two Sum Optimized Solution                                  | Easy   | [View Solution](1-two-sum-optimized.js)                            |
+| 02       | Add Two Numbers                                             | Medium | [View Solution](2-add-two-numbers.js)                              |
+| 09       | Palindrome Number                                           | Easy   | [View Solution](9-palindrome-number.js)                            |
+| 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | Easy   | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
+| 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | Easy   | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
 
 ---
 
 ### 🔗 **GitHub Repo:**
 
-🔗 [leetcode-js-easy-solutions](https://github.com/mzeeshan138/leetcode-js-easy-solutions.git)  
-You can find the code for this solution in the file `9-palindrome-number.js`.
+🔗 [leetcode-js-solutions](https://github.com/mzeeshan138/leetcode-js-solutions.git)
 
 ---
 
@@ -46,13 +46,6 @@ You can find the code for this solution in the file `9-palindrome-number.js`.
 ✅ **Beginner-friendly and easy to understand** 🎓  
 ✅ **Clear explanations and performance analysis** 🧠  
 ✅ **Well-organized problem-solving approach** 🏆
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository, add your solutions, and submit a pull request! 🚀  
-Let's improve and grow together. 🎉
 
 ---
 
