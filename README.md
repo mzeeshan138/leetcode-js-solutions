@@ -18,10 +18,10 @@ This repository currently includes solutions for LeetCode's **easy-level** probl
 
 | #        | Problems                                                    | Level  | Link                                                               |
 | -------- | ----------------------------------------------------------- | ------ | ------------------------------------------------------------------ |
-| 01 (a)   | Two Sum Not Optimized                                       | Easy   | [View Solution](1-two-sum.js)                                      |
-| 01 (b)   | Two Sum Optimized Solution                                  | Easy   | [View Solution](1-two-sum-optimized.js)                            |
-| 02       | Add Two Numbers                                             | Medium | [View Solution](2-add-two-numbers.js)                              |
-| 09       | Palindrome Number                                           | Easy   | [View Solution](9-palindrome-number.js)                            |
+| 01 (a)   | Two Sum Not Optimized                                       | Easy   | [View Solution](01-two-sum.js)                                     |
+| 01 (b)   | Two Sum Optimized Solution                                  | Easy   | [View Solution](01-two-sum-optimized.js)                           |
+| 02       | Add Two Numbers                                             | Medium | [View Solution](02-add-two-numbers.js)                             |
+| 09       | Palindrome Number                                           | Easy   | [View Solution](09-palindrome-number.js)                           |
 | 1295 (a) | Find Numbers with Even Number of Digits (String Method).    | Easy   | [View Solution](1295-find-numbers-with-even-number-of-digits-a.js) |
 | 1295 (b) | Find Numbers with Even Number of Digits (Arithmetic Logic). | Easy   | [View Solution](1295-find-numbers-with-even-number-of-digits-b.js) |
 
