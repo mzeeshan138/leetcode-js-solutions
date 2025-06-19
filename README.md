@@ -54,7 +54,7 @@ This repository currently includes solutions for LeetCode's **easy-level** probl
 🐙 **GitHub:** [mzeeshan138](https://github.com/mzeeshan138)  
 📧 **Email:** muhammadzeeshan786138@gmail.com  
 🔗 **LinkedIn:** [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
-🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan106/)
+🔗 **LeetCode Profile:** [Zeeshan's LeetCode Profile](https://leetcode.com/u/zeeshan138/)
 
 ---
 
