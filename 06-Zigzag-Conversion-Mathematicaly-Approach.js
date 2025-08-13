@@ -1,4 +1,4 @@
-//Mathematical (Cycle Length) Approach
+//Mathematical (Cycle Length) Approach - Optimized
 /**
  * @param {string} s
  * @param {number} numRows
